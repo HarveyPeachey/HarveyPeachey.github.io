@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Fblog","\u002Fblog\u002F[post_path]","\u002Fpokemon","\u002Fpokemon\u002F[pokemon_path]","\u002Ftypes","\u002Ftypes\u002F[dish_path]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

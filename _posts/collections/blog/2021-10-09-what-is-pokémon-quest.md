@@ -1,0 +1,40 @@
+---
+layout: blog
+title: What is Pokémon Quest?
+slug: what-is-pokemon-quest
+date: 2021-10-10T11:33:32.080Z
+thumbnail: /images/uploads/poke-quest-splash-780.png
+featured: false
+summary: Pokémon Quest is a free-to-play action-adventure game that was released
+  on the Nintendo Switch platform in May 2018 and released on Android and iOS a
+  year later in June 2018 developed by Game Freak.
+---
+Pokémon Quest is a free-to-play action-adventure game that was released on the Nintendo Switch platform in May 2018 and released on Android and iOS a year later in June 2018 developed by Game Freak.
+
+Part of the popular Pokémon franchise, this game provided a new formula for how a Pokémon game is played and also breathing a new lease of life with its art direction, very much based on popular voxel-based video games such as Minecraft and Roblox to name a few.
+
+There was also a Chinese version of the game developed by NetEase released on Android and iOS this year, which added new features such as PVP and second-generation Pokémon, along with a bunch of quality of life features. Unfortunately, this version of the game isn't available outside of the Chinese app stores however, there are ways to obtain it online.
+
+### Gameplay
+
+Compared to the traditional mainline Pokémon games, the gameplay differs substantially. The base premise of ***Gotta Catch ‘Em All!***, is still the main part of this game featuring the first generation roster, all souped-up in their blocky goodness. But obtaining these Pokémon isn't the same battle, weaken and throw a Poké Ball formula that we're used. To obtain Pokémon, you better make sure you can cook!
+
+The main gameplay consists of sending out you're Pokémon on expeditions, where they will battle with other Pokémon and once the level is cleared, you are rewarded with ingredients that can be used in your base camp's cooking pots, to attract different Pokémon. Along with ingredients, you can also gain Power Stones, which you can equip on your Pokémon to make them stronger, which will help with harder expeditions.
+
+![Pokémon out on an expedition](/images/uploads/expedition-screen-1.jpg "Gameplay")
+
+When you send your Pokémon out on an expedition they will automatically run around the level to find enemy Pokémon, giving you controls to use your Pokémon team's moves against them. If you're feeling lazy there is an auto option, which will make you Pokémon automatically attack, so you can sit there and bask in the glory of your Pokémon.
+
+### How do I obtain certain Pokémon?
+
+To help out with the process of obtaining Pokémon, I've created this web app you're on so you can be tactical with what dishes you wish to cook by looking up what recipes attract certain Pokémon and the pool of Pokémon that are attracted when you make these dishes.
+
+For a breakdown of Pokémon per dish, you can visit the [Types](https://pokequestrecipes.me/types/) section which associates Dishes with the type of Pokémon they attract. Alternatively, you can visit the [Pokemon](https://pokequestrecipes.me/pokemon) section to see what recipes you can use to obtain the Pokémon that you want. Each grouping of recipes will also show you the attraction rate, which shows you the probability of you receiving that Pokémon from that particular group of recipes.
+
+Another aspect of the cooking procedure is the tier of cooking pot that you choose to attract Pokémon. There are four tiers of cooking pots, which are stone, bronze, silver, and gold. The tier of the pot will decide the level of the Pokémon that you will obtain and the expeditions required to wait for, changes based on this as well. The web app shows this for bronze, silver, and gold pots, as shown here:
+
+![Expedition count for each pot](/images/uploads/pot-expeditions.png "Expeditions")
+
+### Where can I get help for Pokémon Quest?
+
+Fear not, keep an eye out on this Blog. I'll be posting guides and tips for the game over the next few weeks. But in the meantime feel free to join the r/pokemonquest [Discord](https://discord.gg/JpctMkv) where there are plenty of helpful people on there who will offer their assistance with any questions you have about the game.
